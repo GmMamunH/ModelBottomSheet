@@ -2,10 +2,11 @@
 
 Implementing Bottom Sheet Dialogs using Android Studio || Bottom Sheet Dialog in Android studio || RSM Developer
 
+![Bottom Sheet Dialog Android Studio Java Example Tutorial](https://github.com/GmMamunH/ModelBottomSheet/assets/134957744/e858fdc8-33b7-4a42-b806-b5a5ec9fde1f)
 
 Presenting brand new project:
-In this project you will learn how to![Bottom Sheet Dialog Android Studio Java Example Tutorial](https://github.com/GmMamunH/ModelBottomSheet/assets/134957744/e858fdc8-33b7-4a42-b806-b5a5ec9fde1f)
- create bottom sheet dialog App in Android Studio. Just follow the steps in the project.
+In this project you will learn how to create bottom sheet dialog App in Android Studio. Just follow the steps in the project.
+
 More project about Android Application Development will uploaded so get in touch with the channel. So you are no more far. You can be 
 developer. 
 
@@ -49,7 +50,7 @@ In this step we open an XML file and add the code :-
     
 </LinearLayout>
 
-=================================================================================
+===========================================
 
 Step 3: Create a New layout xml file (bottomsheetlayout) with language as Java :- Open ->res -> layout ->bottomsheetlayout.xml and add following code:
 
@@ -310,12 +311,13 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-==========================================================================================
+================================================
 
 Output: Now run the App and you will see main topics and sub-topics listed..... 
 
+https://github.com/GmMamunH/ModelBottomSheet/assets/134957744/ff62f473-03fd-426e-995c-d7de2642ba2e
 
-==============================================================================================
+==================================================
 
 android bottom sheet dialog, android bottom sheet, android bottom sheet dialog fragment,
 bottom sheet dialog android, Implementing Bottom Sheet Dialogs using Android Studio,
