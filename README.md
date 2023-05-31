@@ -2,16 +2,21 @@
 
 Implementing Bottom Sheet Dialogs using Android Studio || Bottom Sheet Dialog in Android studio || RSM Developer
 
-Presenting brand new project: 
+https://blogger.googleusercontent.com/img/a/AVvXsEgS2fwoCWdol5QMO02vfgG-rju3GB6Zi8IoYMcoX0gehbbKIaFZf75xPq27Utmbsu0UMQYiL9YX0Hz_U_XbyB3lOJQQOUbJkA05W95anYD9ssZijMfsRJcpYsi7pQY8MHu4hK3dx6DmMjOBppkmSm6gGo78BAkkKgMZF7jhXF6YZobkKRYuZs2qMxPtDA
+
+Presenting brand new project:
 In this project you will learn how to create bottom sheet dialog App in Android Studio. Just follow the steps in the project.
 More project about Android Application Development will uploaded so get in touch with the channel. So you are no more far. You can be 
 developer. 
 
+====================================================
 Step 1: Creating a new project
 Open a new project.
 We will be working on Empty Activity with language as Java. Leave all other options unchanged.
 You can change the name of the project at your convenience.
 There will be two default files named activity_main.xml and MainActivity.java.
+
+======================================================================================
 Step 2: Open res -> layout ->activity_main.xml (or) main.xml and add following code:
 In this step we open an XML file and add the code :-
 
@@ -41,6 +46,7 @@ In this step we open an XML file and add the code :-
     
 </LinearLayout>
 
+=================================================================================
 Step 3: Create a New layout xml file (bottomsheetlayout) with language as Java :- Open ->res -> layout ->bottomsheetlayout.xml and add following code:
 In this step we open an XML file and add the code :-
 
@@ -173,8 +179,10 @@ In this step we open an XML file and add the code :-
         />
 </LinearLayout>
 
+====================================================================
 Step 4: Copy and paste your Icon (drawable)
 
+=================================================================
 Step 5: Open res -> values -> themes -> theme and add following code:
 In this step we open an theme file and add the code :- 
 <!-- Customize your theme here. -->
@@ -185,9 +193,9 @@ In this step we open an theme file and add the code :-
     <item name="android:background">@android:color/transparent</item>
 </style>
 
+================================================================
 Step 6: Open Java -> package – > MainActivity.Java and add following code:
 In this step we open an Java file and add the code :-
-
 
 
 package com.rsmdeveloper.modelbottomsheet;
@@ -283,11 +291,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
+==========================================================================================
 Output: Now run the App and you will see main topics and sub-topics listed..... 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mli5Oh4vGZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
+==============================================================================================
 android bottom sheet dialog, android bottom sheet, android bottom sheet dialog fragment,
 bottom sheet dialog android, Implementing Bottom Sheet Dialogs using Android Studio,
 How to use Bottom  Sheet dialog in Android?, How to call bottom sheet in android?,
